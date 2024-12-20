@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+}
+
+.bg-container{
+    background-color: #000000;
+    height: 100vh;
+    background-size: cover;
+    padding: 25px;
+}
+
+.text{
+    color: #212121;
+}
+
+.input-container{
+    background-color: #212121;
+    color: white;
+    padding-left: 15px;
+    font-size: 17px;
+    border: 0px;
+    height: 50px;
+    width: 350px;
+    border-radius: 8px;
+}
+
+
+
+.fron-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.products-container{
+    color: white;
+    background-color: #212121;
+    height: 560px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    border-radius: 8px;
+    padding: 35px;
+    overflow: auto;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.inprogress-view{
+    background-color: #000000;
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.failure-view{
+    background-color: #000000;
+    height: 100vh;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 767px) {
+    .fron-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .input-container{
+        background-color: #212121;
+        color: white;
+        padding-left: 15px;
+        font-size: 17px;
+        border: 0px;
+        height: 50px;
+        width: 500px;
+        border-radius: 8px;
+    }
+    
+    .submit-button{
+        border: 0px;
+        height: 50px;
+        width: 75px;
+        border-radius: 8px;
+        background-color: #212121;
+        color: white;
+        margin-left: 20px;
+    }
+    
+}
