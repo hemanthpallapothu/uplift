@@ -13,7 +13,10 @@ Uplyft Assignment is a chatbot-like interface application designed to fetch and 
 ## Technologies Used  
 - **Frontend:** React.js  
 - **Backend:** Node.js, SQLite  
-- **Deployment:** Vercel  
+- **Deployment:** Vercel
+
+## Here is the Project Link
+  -  **https://uplyftaggg.ccbp.tech/**
 
 ## Credentials for Login  
 Here are the available credentials to log in to the application:  
