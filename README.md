@@ -16,23 +16,25 @@ Uplyft Assignment is a chatbot-like interface application designed to fetch and 
 - **Deployment:** Vercel  
 
 ## Credentials for Login  
+Here are the available credentials to log in to the application:  
+
 - **Username:** rahul  
-- **Password:** rahul@2021
+  - **Password:** rahul@2021  
 
 - **Username:** henry  
-- **Password:** henry_the_developer
+  - **Password:** henry_the_developer  
 
 - **Username:** david  
-- **Password:** the_miller@23
+  - **Password:** the_miller@23  
 
 - **Username:** robert  
-- **Password:** WilsonRobert45
+  - **Password:** WilsonRobert45  
 
 - **Username:** mosh  
-- **Password:** DevMosh22
+  - **Password:** DevMosh22  
 
 - **Username:** praneetha  
-- **Password:** praneetha@2021
+  - **Password:** praneetha@2021  
 
 ## Installation  
 
